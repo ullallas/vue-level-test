@@ -1,0 +1,6 @@
+* client / server => node_modules 설치 (npm i)
+* server => app.js db 정보 변경
+* vue.config.js => port 번호 변경
+
+** server에서 3000포트 오픈 (node app.js)
+** client에서 8081포트 오픈 (npm run server)
